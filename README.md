@@ -1,4 +1,4 @@
-# Clockwork Convnets for Video Semantic Segmentation
+# Clockwork Convnets for Video Semantic Segmentation Project under Professor Chaohui Wang of Imagine Lab Paris 
 
 This is the reference implementation of [arxiv:1608.03609](https://arxiv.org/abs/1608.03609):
 
